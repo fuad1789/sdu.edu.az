@@ -1,0 +1,163 @@
+[
+  {
+    "label": "Universitet",
+    "href": "#",
+    "categories": [
+      {
+        "label": "Haqqımızda",
+        "items": [
+          { "label": "Tariximiz", "href": "/az/about_us" },
+          { "label": "Nizamnamə", "href": "/az/103" },
+          { "label": "Strategiya", "href": "/az/Strategy" },
+          { "label": "Strateji inkişaf planı", "href": "/az/Strategic_development_plan" },
+          { "label": "Maliyyələşdirmə", "href": "/az/financing" },
+          { "label": "Risk İdarəetmə Planı", "href": "/az/risk_management_plan" },
+          { "label": "Elmi-tədqiqat strategiyası", "href": "/az/e_t_s" },
+          { "label": "Reytinq məlumatları", "href": "/az/203" }
+        ]
+      },
+      {
+        "label": "Rəhbərlik",
+        "items": [
+          { "label": "Rektor", "href": "/az/rector" },
+          { "label": "Elm və İnnovasiyalar üzrə prorektor", "href": "/az/science_and_innovation" },
+          { "label": "Sosial məsələlər və ictimaiyyətlə əlaqələr üzrə prorektor", "href": "/az/humanitarian_affairs" },
+          { "label": "Ümumi işlər üzrə prorektor", "href": "/az/common-work" },
+          { "label": "Rektorun müşaviri", "href": "/az/164" },
+          { "label": "Elmi şura", "href": "/az/academic_council" }
+        ]
+      },
+      {
+        "label": "Kampus",
+        "items": [
+          { "label": "Tədris korpusları", "href": "/az/educational_building " },
+          { "label": "Tələbə evi", "href": "/az/house_of_student" },
+          { "label": "Yeməkxana", "href": "/az/canteen" },
+          { "label": "Asudə vaxt bloqu", "href": "/az/Blog_of_leisure_time" },
+          { "label": "Azərbaycanı kəşf et", "href": "/az/Discover_Azerbaijan" }
+        ]
+      },
+      {
+        "label": "İnzibati Strukturlar",
+        "items": [
+          { "label": "Şöbələr", "href": "/az/Departments" },
+          { "label": "Mərkəzlər", "href": "/az/Centers" },
+          { "label": "Tərəfdaş institutlar", "href": "/az/Institutes" },
+          { "label": "Xidmətlər", "href": "/az/Services" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Akademik",
+    "href": "#",
+    "categories": [
+      {
+        "label": "Fakültələr",
+        "items": [
+          { "label": "Riyaziyyat", "href": "/az/mathematics" },
+          { "label": "Təbiət Elmləri", "href": "/az/chemics" },
+          { "label": "İqtisadiyyat və İdarəetmə", "href": "/az/economics" },
+          { "label": "Mühəndislik", "href": "/az/engineering" },
+          { "label": "Tarix və coğrafiya", "href": "/az/history" },
+          { "label": "Filologiya", "href": "/az/philology" }
+        ]
+      },
+      {
+        "label": "Təhsil Səviyyələri",
+        "items": [
+          { "label": "Bakalavr", "href": "/az/Bachelors" },
+          { "label": "Magistratura", "href": "/az/Masters" },
+          { "label": "Doktorantura", "href": "/az/Doctoral" },
+          { "label": "Kollec", "href": "/az/College" }
+        ]
+      },
+      {
+        "label": "Resurslar",
+        "items": [
+          { "label": "Akademik təqvim", "href": "/az/academic_calendar" },
+          { "label": "Normativ Hüquqi Aktlar", "href": "/az/nha" },
+          { "label": "Qiymətləndirmə", "href": "/az/grading_at_ssu" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Elm və İnnovasiya",
+    "href": "#",
+    "categories": [
+      {
+        "label": "Elmi Fəaliyyət",
+        "items": [
+          { "label": "Dissertasiya şuraları", "href": "/az/dissertation_councils" },
+          { "label": "Gənc alimlər şurası", "href": "/az/council_of_young_scientists" },
+          { "label": "Tələbə elmi cəmiyyəti", "href": "/az/student_scientific_society" },
+          { "label": "Elanlar", "href": "/az/announcements" }
+        ]
+      },
+      {
+        "label": "Nəşrlər",
+        "items": [
+          { "label": "Elmi xəbərlər jurnalı", "href": "/az/scientific_publications" },
+          { "label": "Konfrans materialları", "href": "/az/conference_materials" },
+          { "label": "Dərsliklər", "href": "/az/textbooks" },
+          { "label": "Dərs vəsaitləri", "href": "/az/textbooks_aids" },
+          { "label": "Metodik vəsait", "href": "/az/methodical_work" }
+        ]
+      },
+      {
+        "label": "Strateji Sənədlər",
+        "items": [
+          { "label": "Elmi-tədqiqat planı (2021-2025)", "href": "/az/2021_2025" },
+          { "label": "İllik Hesabatlar", "href": "/az/current_year_" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Beynəlxalq Əlaqələr",
+    "href": "#",
+    "categories": [
+      {
+        "label": "Əcnəbi Tələbələr",
+        "items": [
+          { "label": "Hazırlıq kursu mərhələsi", "href": "/az/courses_step" },
+          { "label": "Təqaüd imkanları", "href": "/az/foreign_t" },
+          { "label": "Qəbul qaydaları", "href": "/az/_admission_ruless" },
+          { "label": "İxtisaslar və təhsil haqqı", "href": "/az/6539" }
+        ]
+      },
+      {
+        "label": "Əməkdaşlıq",
+        "items": [
+          { "label": "Tərəfdaş Universitetlər", "href": "/az/information_about_universities" },
+          { "label": "Təşkilatlar", "href": "/az/organizations" },
+          { "label": "Layihələr", "href": "/az/Projects" },
+          { "label": "Assosiasiyalar", "href": "/az/Associations" }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Tələbə Həyatı",
+    "href": "#",
+    "categories": [
+      {
+        "label": "Təşkilatlar",
+        "items": [
+          { "label": "Tələbə Gənclər Təşkilatı", "href": "/az/syo" },
+          { "label": "Tələbə Həmkarlar İttifaqı", "href": "/az/student_colleague_union" },
+          { "label": "Klublar", "href": "/az/Clubs" }
+        ]
+      },
+      {
+        "label": "İctimai",
+        "items": [
+          { "label": "Həmkarlar İttifaqı Komitəsi", "href": "/az/Free_Trade_Union_Committee" },
+          { "label": "Dayanıqlı İnkişaf Mərkəzi", "href": "/az/sdc" },
+          { "label": "Davamlı İnkişaf Komitəsi", "href": "/az/e_p_o_s" }
+        ]
+      }
+    ]
+  }
+]
