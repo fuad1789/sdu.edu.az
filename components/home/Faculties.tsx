@@ -81,23 +81,23 @@ export default function Faculties() {
               
               {/* Top Right Index */}
               <div className="absolute top-4 right-4">
-                <span className="text-5xl font-serif font-bold text-white/10 select-none group-hover:text-white/20 transition-colors duration-300">
+                <span className="text-5xl font-serif font-bold text-white/40 select-none group-hover:text-white/60 transition-colors duration-300">
                     {String(idx + 1).padStart(2, '0')}
                 </span>
               </div>
 
               {/* Bottom Content */}
-              <div className="absolute bottom-0 left-0 w-full p-6 translate-y-2 group-hover:translate-y-0 transition-transform duration-300">
+              <div className="absolute bottom-0 left-0 w-full p-6 translate-y-0 md:translate-y-2 md:group-hover:translate-y-0 transition-transform duration-300">
                 <h3 className="text-2xl font-serif font-bold text-white mb-2 leading-tight">
                     {faculty.name}
                 </h3>
-                <div className="h-0 group-hover:h-auto overflow-hidden transition-all duration-300">
-                     <p className="text-white/80 text-xs line-clamp-2 mt-2 opacity-0 group-hover:opacity-100 transition-opacity duration-500 delay-100">
+                <div className="h-auto opacity-100 md:h-0 md:opacity-0 md:group-hover:h-auto md:group-hover:opacity-100 overflow-hidden transition-all duration-300">
+                     <p className="text-white/80 text-xs line-clamp-2 mt-2 transition-opacity duration-500 delay-100">
                         {faculty.description}
                      </p>
                 </div>
                 
-                <div className="mt-4 flex items-center gap-2 text-sdu-gold text-[10px] font-bold tracking-widest uppercase opacity-0 group-hover:opacity-100 transition-opacity duration-300 delay-200">
+                <div className="mt-4 flex items-center gap-2 text-sdu-gold text-[10px] font-bold tracking-widest uppercase opacity-100 md:opacity-0 md:group-hover:opacity-100 transition-opacity duration-300 delay-200">
                     <span>Ətraflı</span>
                     <ArrowRight className="w-3 h-3" />
                 </div>
