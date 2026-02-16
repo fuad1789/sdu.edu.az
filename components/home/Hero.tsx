@@ -146,30 +146,25 @@ export default function Hero() {
         initial={{ opacity: 0, x: 20 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: 1, duration: 0.8 }}
-        className="flex absolute top-24 right-4 md:top-28 md:right-10 z-30 bg-white/10 backdrop-blur-md border border-white/20 p-3 md:p-4 rounded-xl flex-col gap-2 md:gap-3 max-w-[150px] md:max-w-[200px] scale-90 origin-top-right md:scale-100"
+        className="flex items-center absolute top-24 right-4 md:top-28 md:right-10 z-30 bg-white/10 backdrop-blur-md border border-white/20 p-2 md:p-3 rounded-xl gap-2 md:gap-4 scale-90 origin-top-right md:scale-100"
       >
-        <span className="text-[10px] text-white font-bold tracking-widest uppercase border-b border-white/20 pb-2">
-            Beynəlxalq Reytinq
-        </span>
-        <div className="flex items-center gap-2 md:gap-4 justify-center">
-            <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
-                <Image 
-                    src="/assets/icons/europe_qs_ranking.png" 
-                    alt="QS Europe Ranking 483" 
-                    width={64} 
-                    height={64} 
-                    className="object-contain w-full h-full"
-                />
-            </div>
-            <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
-                <Image 
-                    src="/assets/icons/western_asia_2025_qs_ranking.png" 
-                    alt="QS Western Asia Ranking 31" 
-                    width={64} 
-                    height={64} 
-                    className="object-contain w-full h-full"
-                />
-            </div>
+        <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
+            <Image 
+                src="/assets/icons/europe_qs_ranking.png" 
+                alt="QS Europe Ranking 483" 
+                width={64} 
+                height={64} 
+                className="object-contain w-full h-full"
+            />
+        </div>
+        <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
+            <Image 
+                src="/assets/icons/western_asia_2025_qs_ranking.png" 
+                alt="QS Western Asia Ranking 31" 
+                width={64} 
+                height={64} 
+                className="object-contain w-full h-full"
+            />
         </div>
       </motion.div>
     </section>
