@@ -146,23 +146,23 @@ export default function Hero() {
         initial={{ opacity: 0, x: 20 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ delay: 1, duration: 0.8 }}
-        className="flex items-center absolute top-24 right-4 md:top-28 md:right-10 z-30 bg-white/10 backdrop-blur-md border border-white/20 p-2 md:p-3 rounded-xl gap-2 md:gap-4 scale-90 origin-top-right md:scale-100"
+        className="flex items-center absolute top-24 right-4 md:top-28 md:right-10 z-30 bg-white/10 backdrop-blur-md border border-white/20 p-3 md:p-4 rounded-xl gap-3 md:gap-5 origin-top-right"
       >
-        <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
+        <div className="relative w-16 h-16 md:w-24 md:h-24 bg-white/5 rounded-lg p-2">
             <Image 
                 src="/assets/icons/europe_qs_ranking.png" 
                 alt="QS Europe Ranking 483" 
-                width={64} 
-                height={64} 
+                width={96} 
+                height={96} 
                 className="object-contain w-full h-full"
             />
         </div>
-        <div className="relative w-12 h-12 md:w-16 md:h-16 bg-white/5 rounded-lg p-1">
+        <div className="relative w-16 h-16 md:w-24 md:h-24 bg-white/5 rounded-lg p-2">
             <Image 
                 src="/assets/icons/western_asia_2025_qs_ranking.png" 
                 alt="QS Western Asia Ranking 31" 
-                width={64} 
-                height={64} 
+                width={96} 
+                height={96} 
                 className="object-contain w-full h-full"
             />
         </div>
